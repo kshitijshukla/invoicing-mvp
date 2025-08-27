@@ -1,0 +1,13 @@
+.DS_Store
+node_modules/
+npm-debug.log*
+.env
+.env.*
+backend/.env
+frontend/.env
+backend/invoices/
+frontend/dist/
+*.log
+logs/
+*.zip
+dump/
